@@ -1,0 +1,14 @@
+.clickable-row {
+  cursor: pointer;
+}
+
+.clickable-row:hover {
+  background-color: #e6e6e6;
+}
+
+.pet-form {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  gap:15px
+}

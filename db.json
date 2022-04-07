@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "Satheesh1",
+      "email": "Sat@mail.com",
+      "address": "South street",
+      "id": 1
+    },
+    {
+      "name": "John2",
+      "email": "john@mail.com",
+      "address": "North street",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "address": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "address": "West street"
+    }
+  ],
+  "pets": [
+    {
+      "name": "Dog123",
+      "type": "Dog",
+      "information": "Loves chewing1",
+      "ownerId": 1,
+      "id": 1
+    },
+    {
+      "name": "Cat12",
+      "type": "Cat",
+      "information": "Loves sleep3",
+      "ownerId": 2,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Bird1",
+      "type": "Bird",
+      "ownerId": 3,
+      "information": "Loves flying"
+    },
+    {
+      "id": 4,
+      "name": "Rabbit1",
+      "type": "Rabbit",
+      "ownerId": 4,
+      "information": "Loves running"
+    }
+  ]
+}
